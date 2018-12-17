@@ -8,7 +8,7 @@ $HOME/Document/go
 
 ## Dir
 
-``
+```
 .
 ├── bin
 ├── pkg
